@@ -1,0 +1,20 @@
+{
+  "name": "airConditioner",
+  "authors": [
+    "Александр <potolok1986@gmail.com>"
+  ],
+  "description": "Сайт по кондиционерам",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
