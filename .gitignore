@@ -3,3 +3,5 @@ bower_components/
 psd/
 *.css
 *.html
+*.css.map
+prepros-6.config
